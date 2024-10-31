@@ -24,4 +24,4 @@
 
 ### 6. Working together
 
-**답:1.git pull 2.student파일에 이름 입력 후 저장 3.git add .;git commit -m 'added name' 4.git push**
+**답:1.git pull 2.student파일에 이름 입력 후 저장 3.git add .;git commit -m 'added name' 4.git push_**

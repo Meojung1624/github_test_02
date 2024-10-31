@@ -12,7 +12,7 @@
 
 ### 3. Enter the time machine
 
-**답:파란카드를 드래그**
+**답:git init**
 
 ### 4. The command line
 
